@@ -27,7 +27,7 @@ class App extends Component {
     this.gameState.board[event.target.dataset.square] = this.state.turn;
       event.target.innerText = this.state.turn;
       this.setState({
-        turn: this.state.turn == 'X' ? 'O' : 'X',
+        turn: this.state.turn == 'X' ? 'O' : 'O',
       })
     }
 
