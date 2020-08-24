@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
 import './App.css';
 
@@ -107,3 +108,5 @@ class App extends Component {
 }
 
 export default App;
+=======
+>>>>>>> d6aea260ccc1f5016bde925bfc4bee5080340ed2
