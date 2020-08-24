@@ -9,7 +9,7 @@ class App extends Component {
     super(props)
   
     this.state = {
-       turn:'X',
+       turn:'Y',
       winner:undefined,
        gameEnded:false
       }
